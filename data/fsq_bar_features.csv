@@ -1,0 +1,579 @@
+,name,postcode,distance
+0,Resto-bar Capucine - Nord-Est de Montréal,,246
+1,Piano Bar la Belle Epoque,H1G 2V6,661
+2,Cafe liana bar & grill,H1E 1M4,809
+3,La Veranda,H1G 2V5,960
+4,Le Saint Bock,H2X 3K4,132
+5,La Distillerie,H2X 1H6,268
+6,Le 4e Mur,H2X 3K8,132
+7,Arcade MTL,H2X 3K8,132
+8,Saint-Houblon,H2X 3K3,301
+9,Pub l'Ile Noire,H2X 3K4,208
+10,Cadet,H2X 2S8,741
+11,Brasserie Artisanale l'Amère a Boire Inc,H2X 3K8,149
+12,Renard,H2L 2H2,718
+13,Patrick'S Pub Irlandais,H2X 3K4,158
+14,Brasserie l'Unik,,321
+15,Kana Taverne Ltée,H4L 1J4,716
+16,Snookers Billiards,H4K 1N3,634
+17,Broue Pub Brouhaha Papineau,H2B 2A1,965
+18,Sauve Bar des Sportifs,H2B 1A3,440
+19,Bar Brewskis,H2B 1J3,924
+20,Resto-Bar Gelbison,H2B 1J9,951
+21,Monkees Resto Bar,H4E 3J2,949
+22,Brasserie du Passant Inc,J4K 2T4,263
+23,Taverne Renaud,J4K 1C9,550
+24,Resto-pub Chez Vincent,J4H 1M6,609
+25,Bungalow Bar Salon,J4H 1E5,485
+26,Barachico,J4H 1E7,414
+27,La Distillerie No.4,J4H 1C7,796
+28,Brasserie Tremblay,J4H 3H9,976
+29,Joker Pub Ludique Longueuil,J4J 3W6,587
+30,Le 1286,J4J 3W6,743
+31,Tastea,J4J 3X1,786
+32,Resto Bar le Surf,J4J 3X3,852
+33,Suite 903,H3E 2A5,548
+34,Madame Smith,H1W 1T3,370
+35,L'Espace Public-Brasseurs de Quartier,H1W 1R7,926
+36,Le Blind Pig,H1W 1S6,604
+37,Le Trèfle - Taverne Irlandaise,H1W 1T1,497
+38,Bar le Bureau,H1V 1Y1,501
+39,Bar l'Assemblée,H1V 1Y3,519
+40,Taverne l'Escale,H1V 1Y6,522
+41,Loupblond,H1V 1Z1,615
+42,Funki Munki,,729
+43,Brasserie de Lasalle Enr,H1V 1K2,168
+44,Bar Vegas Lounge,H3S 2B2,751
+45,La Retenue,H3T 1Y8,848
+46,Moist Club,H3S 1V8,583
+47,La Retenue Bière et Amusement,,856
+48,Pub Pit Caribou,H2J 2J4,301
+49,Rouge Gorge,H2J 1Y1,488
+50,Pub West Shefford,H2J 1Z2,584
+51,La Distillerie No2,H2H 1J7,919
+52,Bar Plan B,H2T 1P8,944
+53,Cafe-Bar le Boudoir,H2J 1X1,637
+54,Barraca Rhumerie,H2J 1X8,491
+55,Fitzroy,H2J 1W6,747
+56,A Bar,H2W 1E4,954
+57,Aux Verres Stérilisés Inc,H2J 2H6,479
+58,Karaoke Maniac,H1A 0A1,136
+59,Bistro du Jardin,H1A 1R9,958
+60,Cold Room,H2Y 1G8,162
+61,Terrasse Place d'Armes,H2Y 2X6,275
+62,Modavie,H2Y 1Y6,210
+63,Perché,H2Y 1E7,174
+64,Pub BreWskey,H2Y 1H2,376
+65,Pub Wolf & Workman,H2Y 1Z5,388
+66,Bar le Mal Nécessaire,H2Z 1J5,499
+67,BEVO Bar + Pizzeria,H2Y 3A5,158
+68,Boho,H2Y 2T3,443
+69,Tommy,H2Y 1T3,414
+70,The G-Lounge,H4B 1R6,102
+71,Bar les Amazones,H4B 1V8,900
+72,Messorem Bracitorium,H4E 4H2,916
+73,Bar Social Verdun,H4G 1V1,809
+74,LaChicRégal,H3K 1J9,655
+75,Taverne Regal,H3K 1J9,655
+76,Château St-Ambroise - le Club Privé,,818
+77,Club l'Espace,,906
+78,Canal Lounge,H4C 3L8,811
+79,Café Sunset,H1L 1E5,310
+80,Café Bar Gypsy,H1L 1E8,972
+81,Bar Salon Sherbrooke Est Enr,H1L 1C8,476
+82,Bar Sora,H3X 2B6,375
+83,Placements Sergakis Inc,H4B 2P4,405
+84,132 Bar Vintage,H3L 1T4,810
+85,Les Cavistes,H3L 1T5,907
+86,Uber Cafbar,H2C 1P8,553
+87,Bienvenu Bar Salon,H2C 1P5,479
+88,Bar Lajeunesse,H2C 1E2,506
+89,Bar Ahuntsic,H3L 2P7,786
+90,Le Rendez Vous du Thé,H2C 1R3,843
+91,Le Pourvoyeur,H2C 1R8,992
+92,In Vino Veritas,H3L 2G6,155
+93,Lanny Izakaya,,593
+94,Café Bar Padula,H1T 1E1,350
+95,Cafe Allegria,H1S 1L7,847
+96,Bar Café Sorrento Inc,H1S 1L6,877
+97,Cafe Navaro,H1T 1V7,347
+98,Les 3 Brasseurs,H1M 2W2,178
+99,La Belle & la Boeuf,H1M 1W9,279
+100,Souvlaki Bar - Saint-Léonard,H1S 1N1,757
+101,Quality Hotel Parc Olympique,H1J 2T2,781
+102,MontrealX VIP Concierge Bachelor Party Strippers,H1S 1N2,964
+103,Resto-Bar Lucky 7,H1Z 2E3,564
+104,Brasserie Chez le Pere Gedeon,H2A 3A5,791
+105,Brasserie Place 37,H1Z 3E7,819
+106,Perandello Sport Bar,H1Z 1Y4,947
+107,Bar Zeffé,H8S 1Z7,260
+108,Mundial Bar & Grill,,963
+109,Houblon et Cépages,,386
+110,Bar Western Chez Marcel,H8S 2B2,442
+111,Bar Liqueur,H8S 2B2,447
+112,Le Bird Bar,H3J 1M5,283
+113,Le Bureau Bar a Tapas,H3J 1M1,347
+114,Le Vin Papillon,H3J 1N6,767
+115,Burgundy Lion,H3J 1N5,751
+116,Upstairs Jazz Bar & Grill,H3G 2H4,781
+117,Ye Olde Orchard Pub & Grill,H3G 1Z2,904
+118,C'Cho-Colat,H3G 2E2,845
+119,Escondite,H3G 1V7,971
+120,Moose Bawr,H3H 1M2,776
+121,Brutopia,H3G 2B1,856
+122,Café Solaris,H3W 3C6,492
+123,Vodka Bar Inc,H3W 3C7,425
+124,Mecs Bar,H3W 3C2,971
+125,Bistro Lina,H3X 2T8,950
+126,Jilly's,H3X 2T8,950
+127,Pub Cartierville Enr,H4J 1E3,505
+128,Harmony Entertainment,H4J 1H4,707
+129,Atwater Cocktail Club,H4C 2G5,87
+130,Drinkerie Ste-Cunégonde,H3J 1N9,218
+131,El Gordo,H3J 1N5,302
+132,Cyr,H4C 1P2,97
+133,Bar,,114
+134,Placements Sergakis Inc,H4C 1P6,246
+135,Bar Chez Pierre,H4C 1P7,296
+136,Porto Lounge,H4C 1P7,324
+137,Bar Lindberg,H1H 1V3,557
+138,Brasserie Charleroi,H1H 1V3,553
+139,Chez Baptiste Sur Masson,H1Y 1X6,1011
+140,Morelli,H1W 1C4,798
+141,Taverne Morelli,H1W 1H8,807
+142,Restaurant Québerac,H8S 1X8,405
+143,Queberac Deli Bar,H8S 1X8,486
+144,77 Cafe Sunset,H8S 2N9,862
+145,Universal Lounge Vip,H8S 2N9,882
+146,Brasserie Sports40,,907
+147,Gameroom Depot Inc,H1J 1X6,894
+148,Bar la 40,H1K 1A1,908
+149,Brasserie Parkway,H1J 1X6,938
+150,Vegas Bistro,H1K 4Y9,811
+151,Bistro Bar le Cordon,H8R 1H1,530
+152,Monopole,H3C 1T7,303
+153,New City Gas,H3C 1S4,234
+154,Nacarat,H3B 4A5,798
+155,Tiradito,H2Z 1N2,879
+156,Escondite,H3B 3C4,933
+157,Nhâu Bar,H3C 1N6,349
+158,La Voute,H2Y 1P5,566
+159,Terrasses Bonsecours,H2Y 0B4,919
+160,Molson Canada,H2L 2R4,893
+161,Cafe Intervallo Bistro-Bar,H8N 1X8,333
+162,Bingo BNO,H8N 1X3,367
+163,Haraiki Cocktail Lounge,H8N 1P1,896
+164,Caffe Lupo,H8N 2S2,449
+165,Bar San Remo,H8N 2N8,526
+166,RESTO CAFE O'Connor's,H8N 2M4,639
+167,UTBQ – Union des Tenanciers de Bars du Québec,H8N 2R5,829
+168,Brasserie Cote St-Paul,H4E 1G2,889
+169,Shooter's Cafe,H4E 3H9,977
+170,Le Relais du Voyageur,H1L 3R3,973
+171,St Leonard Sports Bar,H1P 1N2,667
+172,Salle d'Amusement Saint-Léonard,H1P 1N2,674
+173,Bar Rencontre le Select Classique,H1S 1A7,610
+174,Bar Jean-Talon,H1S 1M2,981
+175,S Lounge,H1S 1M2,984
+176,Cafe Capo-Chino,H1R 1X3,481
+177,Bistro d'Herelle,H1Z 2B6,602
+178,Caffé Mokka,H1Z 3T9,832
+179,Bar Azzurro,H1R 1X3,441
+180,Cafe Sino,H1R 1X3,481
+181,Cherry Bar Inc,H2A 1A4,601
+182,Action Production a N J,H1Z 4K6,660
+183,Cage Aux Sports,H8N 1X1,964
+184,La Belle & la Boeuf - Burger Bar - LaSalle,H8N 1X1,906
+185,Méchant Bœuf Bar & Brasserie,H2Y 1Z3,860
+186,Philemon Bar,H2Y 1Z5,870
+187,El Pequeño Bar,H2Y 3A4,923
+188,V-Lounge,H8R 3A1,635
+189,Bistro-Brasserie les Soeurs Grises,H2Y 3W5,727
+190,Bob's Cafe,H3C 1J2,904
+191,Pub Saint Pierre,H2Y 2M2,955
+192,Resto-pub le 100 génies,H3C 2H1,633
+193,Le 409,H2Y 0B5,870
+194,Bar le Confessionnal,H2Y 2H1,879
+195,Salumi Vino,H2Y 1C7,262
+196,New Mondo Café,H4N 3C5,649
+197,Vin Prendre Une Bière,H1T 1S6,748
+198,Le Bar Salon Solid Gold Inc,H2N 1M4,974
+199,Solevino,H4N 3B8,923
+200,Resto Bar Beauharnois,H2N 1M2,944
+201,Knox Taverne,H3K 1J1,760
+202,Milky Way Cocktail Bar,H3K 1H9,809
+203,Lord William Pub,H3J 0B3,390
+204,King Crab,H3J 1M3,339
+205,Henden,H3J 1M5,344
+206,La Cage Aux Sports,H3B 2S2,814
+207,Cabaret Mado,H2L 2G6,935
+208,Typhoon Lounge,H4A 1E9,944
+209,Montreal Jazz & Blues,H4B 2L7,445
+210,Bistro Bar Lounge St Jacques,,996
+211,Bar l'Excuse,H8R 0C5,872
+212,Resto-Bar 1323,H7N 5Y4,330
+213,Bar Bada Bing,H7N 1J1,845
+214,Le Royal,H2J 1Y1,496
+215,Le Terminal,H2H 1J3,666
+216,Nickels Restaurants-Place Versaille,,764
+217,Marconi,H2S 1C1,262
+218,Brasserie Harricana,H2R 2W8,340
+219,Birra,H2S 0B2,179
+220,Vices & Versa Bistro du Terroir Inc,H2S 3C5,573
+221,Yïsst,H2S 1M9,795
+222,Bar le Vestiaire,H2S 2M3,802
+223,Cicchetti,H2V 4J3,716
+224,Le Pourvoyeur,H2R 1S7,115
+225,Bar St-Denis,H2S 2S4,349
+226,Huis Clos,H2R 2E7,814
+227,Miss Villeray,H2R 1G5,720
+228,Taverne Cobra,H2S 3C6,806
+229,Cafe shelby,H2A 1R1,678
+230,Brasserie 4040,H2A 1Z1,721
+231,Bar l'Entre Jeu,H1S 1J7,567
+232,Café QVS,H1T 3T4,186
+233,Bar Billard le Losange,H1T 3T4,205
+234,Cafe Terra Nostra,H1S 3B7,624
+235,Cafe Modena,H1S 1M8,630
+236,Pub St-François,H1M 1A9,766
+237,Bar Ruby,H1T 3T4,104
+238,Restaurant Bar Salerno Inc,H1T 3T4,125
+239,Brasserie Bourget 2000,H1G 3H9,471
+240,Cafe Bar Legends,H1H 3Z5,202
+241,Grill N Go,H1Z 3H2,998
+242,Buvette Chez Simone,H2V 4E7,403
+243,Darling,H2W 1Z3,456
+244,Salon Daome,H2T 1N9,434
+245,Le Majestique,H2W 1Y7,683
+246,Brasserie Dieu du Ciel,H2T 2N2,723
+247,Kabinet,H2T 2N4,659
+248,Bar Monsieur Ricard,H2V 4E4,94
+249,Réservoir,H2W 1G7,770
+250,Casa del Popolo,H2T 1R6,607
+251,Yer'Mad Bistro Bar,H2L 1Z2,150
+252,Bar Zoe Karaoke et Cocktails,H2A 1W3,304
+253,Zoé Fondues-Karaoke,H2A 1W3,312
+254,Bar Excel,H1Y 1A1,892
+255,Bar Zoe,H2A 1W3,316
+256,Bar Hélène,H1Y 1B5,651
+257,Beamers Bar,H1X 1A1,658
+258,Café Bar Brewski's,H2A 1X9,661
+259,Au Ptit Buck,H2E 1W2,716
+260,Cafe Jounieh,H4N 1C8,594
+261,La Succursale,H1Y 1Y1,925
+262,Limite08,H1X 1K2,493
+263,Taverne La-Paz,H1T 1S5,644
+264,Ruelle des papillons,H1Y 2K1,706
+265,Bar U-Turn,H1X 1R9,731
+266,Bar Monaco,H1X 1R3,854
+267,Billy Buck,H1Y 1X9,966
+268,Le Grand Lionel,,652
+269,Cafe Sport Alex,H1X 1T8,829
+270,Brasserie Chomar Ltée,H1H 2R2,276
+271,Bar Rosso Nero,H2B 1L3,863
+272,Bar Québec,H2B 1V4,943
+273,Empire Cafe,H2E 1T4,830
+274,Chez Momo,H2E 1N6,648
+275,Bar 1370,H2E 1G6,728
+276,Boswell Brasserie Artisanale,H2H 1L2,995
+277,Accès Décor,H2H 1R9,839
+278,Kampai Garden,H3H 1L7,653
+279,McKibbin's Irish Pub,H3G 2E6,999
+280,N sur Mackay,H3G 2H4,922
+281,Arabica Lounge,H3G 2H5,937
+282,Station des Sports,H3H 1M6,320
+283,Forum Sports Bar,,59
+284,Forum de Montréal,H3H 1N2,50
+285,Shang Hai Grill,H3Z 1P2,219
+286,Bières Jukebox,,382
+287,Bar 3 Barils,H1N 1X6,818
+288,Bar Davidson,H1W 1P9,505
+289,Bar St Vincent,H1W 1R6,395
+290,Blockhaus,H1W 1P7,559
+291,Brasserie des Patriotes,H1W 1P8,508
+292,Bar Chez P.P,H1W 2E4,897
+293,Saint-Houblon,H3T 1X5,556
+294,McCarold,H3T 1Y5,493
+295,Resto-Bar la Maisonnée,H3T 1X2,575
+296,MC Hall salle de réception,,476
+297,Zeppelin,H3T 1M1,557
+298,Café Ali Baba,H3T 1X9,798
+299,Resto-Pub la Brunante,,916
+300,Les Navafrées,,979
+301,Taverne Rancho,H1L 3L5,375
+302,Ping Pong Club,H2T 1S8,279
+303,Bishop & Bagg,H2T 2K8,529
+304,Isle de Garde,H2S 1T3,880
+305,Whisky Café,H2T 1T3,273
+306,Nacho Libre,H2S 1T2,788
+307,Bar Tapas Taza Flores,H2V 4G9,889
+308,Siboire,H2T 1R9,1001
+309,Notre Dame des Quilles,H2S 1P8,514
+310,La Cage,H1N 1E9,832
+311,Bar Salon Nul-Part,H1N 1Y7,445
+312,Bar le Bièvre,H3X 2H8,486
+313,Bar Saska,H3W 1X5,576
+314,Placements Sergakis Inc,H3X 2E2,722
+315,MaBrasserie,H2G 1Y4,799
+316,La Distillerie No 3,H1Y 1W2,742
+317,Quai No.4,H1Y 1W7,836
+318,Verre Bouteille,H2H 1J8,541
+319,La Tulipe,H2H 1V3,707
+320,Bar Lounge Lobby,H2H 1V3,701
+321,Rebel Brasserie Urbaine,H2L 2J1,751
+322,Bar l'aigle Noir,H2L 2H4,852
+323,Bar le Stud,H2K 2H3,666
+324,Le Red Tiger,H2L 2A1,878
+325,Bistro Tendresse,H2L 2H3,899
+326,Le National,H2L 2G9,953
+327,District Video Lounge,H2L 2H7,802
+328,Bar Stock&Lounge,H2L 2G8,973
+329,Kamehameha Snack-Bar,H2L 2G7,980
+330,Bar le Cocktail,H2L 2J5,924
+331,L'Astral 2000,H2K 1T6,291
+332,Bar Fullum,H2K 1W1,351
+333,Astral 2000,H2K 1T6,296
+334,Bar Taboo,H2K 2C8,743
+335,The Kath Women,H2K 2Z9,649
+336,Taverne Metro-Pub,H2K 1W6,668
+337,Bar Sexe Mania,H2K 1X1,847
+338,Taverne Chez Rocky Enr,H2L 2J5,913
+339,Sky Pub Terrasse,,849
+340,Complexe Sky,H2L 2J1,842
+341,Bar Cloakroom,H3G 1Z8,869
+342,Bar George,H3G 1V9,839
+343,Pro-Max Pub,H2K 3P2,426
+344,Pro Max Pub,H2K 3P9,453
+345,Monsieur Restaurant + Bar,H2Z 1N4,298
+346,Nyks Bistro Pub,H3B 2W4,544
+347,La Cage,H2X 3Y2,648
+348,Soubois,H3A 1M7,55
+349,Mac's Lounge,H3B 2T6,256
+350,Brass Door,H3G 2C1,336
+351,Else's,H2W 1M2,617
+352,Bar Suzanne,H2W 1G6,689
+353,Le Saint Édouard,H2S 1Z6,981
+354,Taverne Bar la Remise Inc,H2J 1C2,673
+355,North Star Machines à Piastres,H2W 1Y2,325
+356,McKibbin's Irish Pub,H2X 2T6,797
+357,Salon de Thé CHAÏ Tea Lounge,H2X 2H8,837
+358,Benelux,H2X 1X7,995
+359,Alfred's Damn Right Joint,H2K 2K9,944
+360,Biiru,H3A 2E4,159
+361,Pullman,H2X 2H5,571
+362,La Porte Rouge,H2H 1J1,108
+363,Bar la Broue du Plateau Enr,H2H 1K5,34
+364,Jono Bar,H2H 1K5,88
+365,Blvd 44,H2X 2T2,362
+366,Bar Pamplemousse,H2X 2S9,444
+367,The Emerald,H2V 4G9,837
+368,Bar Henrietta,H2T 2N6,708
+369,Broue Pub Brouhaha,H2G 2N9,619
+370,Pub Rosemont,H2G 1V2,895
+371,Nestor,H2S 2L9,799
+372,Bar Waverly,H2T 1S8,816
+373,Brasserie les Enfants Terribles,H2V 1V8,663
+374,Ye Olde Orchard Pub & Grill,H2X 1S3,497
+375,Helm Brasseur Gourmand,H2V 1T5,43
+376,SuWu,H2X 2T6,71
+377,Thomson House,H3A 1Y2,499
+378,La Taverne du Pélican,H2V 2K2,907
+379,Domaine Papineau,H2H 1V8,534
+380,Les Garnements Rosemont,H2S 2C7,575
+381,The Whiskey Man,H2J 1G5,642
+382,Bar Rolex,H2G 1T3,857
+383,Bily Kun,H2T 1P9,893
+384,Vinvinvin,H2S 1T9,683
+385,Bar le Jockey,H2G 1G6,925
+386,Randolph Pub Ludique,H2G 2J8,736
+387,Le Lexor Lounge,H2G 1T3,296
+388,Cozmos Café Bar,H3N 1S6,717
+389,Relive Bar & Grill,H2V 3B7,781
+390,Acropolis Café Bar,H3N 2H1,922
+391,Taverne Portara,H3N 1P3,625
+392,Pub Papineau,H2G 2W9,716
+393,Pub le Papineau,H2G 2W9,722
+394,Dice Club,H2G 2X2,795
+395,Boucherie Bar à vin Provisions,H2V 1J8,882
+396,Bar 1650,H2G 1B2,385
+397,Resto Bar & Grill Friends,H2G 2X2,496
+398,Bar Coucou,H2S 1H8,906
+399,Le Elsdale Buvette de Quartier,H2G 1N3,432
+400,Broue Bar Gaspé,H1Y 1W1,624
+401,Bar Sel et Poivre,H2G 2A8,699
+402,Igloo's - the One & Only,H2J 4E2,905
+403,Mon Lapin,H2S 1K8,544
+404,Aquarium Café Bar,H1Y 1X5,666
+405,Bar Datcha,H2T 2N4,866
+406,Michael - Home,H1W 0C2,710
+407,Billard le Skratch,H7V 2V7,858
+408,Volume,H7V 3T4,677
+409,Deesses,H7V 2V2,917
+410,Pontos Bar,H7V 1J5,847
+411,Bar Mad-Max,H7L 2Z9,931
+412,Le Diplomate,H2V 1C3,732
+413,TAS Café Bistro Lounge,H2V 4H8,563
+414,Taverne Atlantic,,565
+415,Bar Pam Pam,H3N 1R4,736
+416,House of Jazz Laval,H7S 2N5,434
+417,SHAKER Cuisine & Mixologie Centropolis,H7T 2Z1,948
+418,Bier Markt,H3G 1T1,236
+419,Catering by George Inc,H2V 4H4,891
+420,Mezcaleros Tapas & Cocktails,H2V 4H3,896
+421,Rex Rialto Studios,H2V 4H2,907
+422,HELM microbrasserie,H2V 1T5,930
+423,Taverna V V,H2S 1W3,895
+424,Barbie's Restaurant,H7M 3Y2,976
+425,Lavalois Bar Salon,H7G 2V4,888
+426,Pub Pare,H4P 2G9,286
+427,Sexe d'Or,H4P 2G9,369
+428,La Cage,H4P 2T7,619
+429,Académie de Salsa de Montréal,H4P 2B5,470
+430,Polybroue,,462
+431,Crazy Moon Laval,H7G 2T7,967
+432,Les Insulaires Microbrasseurs,H7G 2E5,472
+433,Bar Lanjeu,H1B 4A5,228
+434,Resto-Bar St Jean Baptiste,H1B 4A2,747
+435,Studio Sexe,H1B 2Y2,770
+436,Les Sans-Taverne,H3K 2A4,591
+437,Idrate,H3K 1J1,585
+438,Etoh Brasserie,H2P 2G6,864
+439,Bar la Québécoise,H2P 1T5,799
+440,Bande Paul,H2S 1C4,554
+441,Mauvais Garçons,H3J 1R5,176
+442,Association Montréal Beach,H3C 1W4,97
+443,Bar Éphémère,H3C 1R8,256
+444,Cabaret Berlin,H2L 2J5,743
+445,Bar Rocky,H2L 2J5,743
+446,DVD Karaoke Juke Box,H7S 2J1,411
+447,Cosomplex Laval,,633
+448,Escondite,H7S 2J7,432
+449,À Domicile,H7T 2K9,685
+450,Club Frenchkiss,H7S 2B4,869
+451,Les 3 Brasseurs,H7T 3B3,57
+452,Le Balthazar,H7T 0B3,164
+453,Randolph Pub Ludique Centropolis,H7T 3C2,228
+454,Sharx,H7T 2Y5,300
+455,Madisons NY Grill & Bar Inc,H7T 2W3,922
+456,3 Amigos Laval,H7T 2J2,443
+457,Le Trèfle,H4G 1X3,672
+458,Bar Verdun Beach,H4G 1X4,573
+459,Bar Pino,H4G 1W3,895
+460,Bar le Base,H7V 2W6,255
+461,Bar Rose-Ange,H7W 2W4,338
+462,La Nuit Blanche Resto-Lounge,H7V 2V5,967
+463,Resto Bar Las Vegas,H7T 1L1,176
+464,Voodoo,,224
+465,Il Piceno cafe,H8N 1T3,698
+466,Bar Chez Normand,H8N 1T3,521
+467,Cafeteria BBR,,53
+468,Benelux,H4G 1V3,856
+469,Bar Palco,H4G 1V6,857
+470,Pub Church St,H4G 2M7,667
+471,Cordova,H4C 1S4,758
+472,Bar de Courcelles,H4C 1S7,858
+473,Le Black Jack Resto-Bar,H4C 1P9,36
+474,Taverne Reeves Inc,H1L 2L9,416
+475,Bar des Ormeaux,H1L 4X2,505
+476,Stem Bar,H3J 1N6,374
+477,Atlas Amusement Enr,H1N 2Z7,510
+478,SAT FoodLab,H2X 2S6,674
+479,Bord'Elle,H2Y 1S1,55
+480,Brasserie des Rapides,H8P 1B3,832
+481,Notre Boeuf de Grâce,H4A 1W8,720
+482,Honey Martin,H4A 1X7,432
+483,Babylon,H4A 1X3,581
+484,Alo Bar,H4A 2C4,721
+485,Rustik Pub & Grill,H4A 1W4,878
+486,Maz Bar & Restaurant,H4A 1W4,883
+487,Monkland Street Fair,,957
+488,Local 75,H4A 1E2,1012
+489,Monkland Taverne,H4A 1E1,968
+490,Ye Olde Orchard Pub & Grill,H4A 1E1,935
+491,Food District,H4P 1S1,985
+492,Nextdoor Pub & Grill,H4A 1T5,733
+493,Garrison House Pub,H4A 1S7,911
+494,La Sobremesa,H3Z 1H3,219
+495,Cafe Baraki,,521
+496,Bar le Grand Chapeau,H3N 1E9,531
+497,Bar Café Loutraki,H3N 1H2,632
+498,Bar Lounge Rockstar,H2P 2M9,920
+499,Raphaël Bistrot Bar à Vins,H2P 2L4,991
+500,Benedicts,H4A 1C7,38
+501,Wills,H2V 4P9,912
+502,Le Off Miss Villeray,,339
+503,Le Petit 26,H2P 1V9,374
+504,Etna,H2P 1T5,684
+505,Chez Josie,H2P 1T5,686
+506,Bar le Record,H2R 2N6,927
+507,Bar Tennesse,H2R 1V7,619
+508,Bar la Plaza,H2R 2N1,764
+509,Le Système,H2S 2N1,791
+510,Bar de Nos Aieux,H2S 1G9,898
+511,Toucan,H2P 1Z1,697
+512,Bistro Bar Bizzwack,H2R 2N4,988
+513,Sarah B. Bar Absinthe,H2Y 3X4,994
+514,Clandestino,H2Y 2T3,981
+515,Purple Haze,H4E 3S9,686
+516,Bar Mirabelle,H4E 1Y1,418
+517,Paradis Nutrition,H4E 1Y1,433
+518,Bar et Lounge Université de Ville-Emard Inc,H4E 3H8,457
+519,Aj's Bar & Restaurant,H4E 1Y5,621
+520,Ciociaro Sport Bar,H1P 3C8,576
+521,G a Delicatessen,H3Z 1X5,882
+522,ADI | Lounge,,856
+523,Foufounes Electriques,H2X 1K5,107
+524,Terrasse St-Ambroise,H4C 2G1,809
+525,L'Annexe St-Ambroise (L’Annexe St-Ambroise),H4C 2G1,897
+526,Riverside St-Henri,H4C 2G1,867
+527,Bar Gaiters,H7V 2V5,775
+528,Bar Brandy,H1Z 3G5,702
+529,Café Sins,H1Z 3G2,971
+530,Pub Epoxy,H4C 1J4,689
+531,Broken Coconut,H4C 1R3,739
+532,Le Téquila Bar,H4C 1S2,938
+533,Brasserie de Callieres,H7E 3N2,69
+534,Vegas Casino Bar,H3M 1K7,734
+535,La Boîte à Karaoke,H3H 1M6,778
+536,La Grosse Bar,,822
+537,Bar Ganadara,H3H 1M4,930
+538,Zazz,H3H 2G9,951
+539,Bar K Karaoke,H3G 2B8,854
+540,Bar Cafe EVA,H3L 1V5,832
+541,Bar Club Mangu,H7G 2V2,691
+542,Le Bar Loic,H4C 1T2,940
+543,La Cage - Brasserie Sportive,H7T 1C8,474
+544,Souvlaki Bar Express - Carrefour Laval,H7T 1C8,629
+545,Brasserie Quebecoise,H2P 1T5,526
+546,Le Vieux,J4B 1S9,851
+547,Paul C Bar,J4B 1W9,518
+548,La Cage,J4B 5L2,319
+549,La Belle et la Boeuf,J4B 7M7,321
+550,Aac Achat d'Articles de Collection,H7E 4V4,454
+551,L'Orage Club,H2R 2N4,812
+552,Chanson,,326
+553,Billard Eljumelgi,H1W 2G5,832
+554,Club la Maison Blanche,J4B 0B2,480
+555,Club 75,J4J 2W3,869
+556,Ti-Agrikol,H2L 3L6,943
+557,Bruno Sport Bar,H2S 1R9,915
+558,Bâtiment B,J6W 4N7,162
+559,Le Saint-Patrick,J6W 1E4,185
+560,Bistro Mc Tavish Inc,J6W 1E6,141
+561,Mctavish,J6W 1E6,144
+562,Pub St-Patrick Inc,J6W 1E4,180
+563,Studio de Terrebonne,J6W 1E2,254
+564,La Buvette du Vieux-Terrebonne,J6W 1J9,274
+565,Restaurant le Xavier,J6W 1G9,145
+566,La Chambre - Terrebonne,J6W 1G8,217
+567,Taverne des Sportifs Enr,J6W 1C4,521
+568,Windsor Hyper Bar & Grill,J6W 3K9,884
+569,BarBara,H4C 1S1,326
+570,Bar Bistro Notre Dame,H4C 1S8,261
+571,Taverne St-Sacrement,H2J 1W8,1007
+572,Brasserie Chez Baptiste,H2J 1X7,976
+573,Espace Urbain Montreal,H2S 2L8,663
+574,Champion Bar,H7M 2Y2,852
+575,Robert Burns Pub,H4W 2B4,990
+576,Bistro Jono Bar 2201 Mont Royal e,H2H 1K5,757
+577,Pang Pang Karaoke,H3G 2H4,1017
