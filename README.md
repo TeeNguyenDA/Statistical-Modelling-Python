@@ -64,7 +64,9 @@ Both APIs provide a relatively accurate distance measurements from a bike locati
 
 ### About the results of the Multivariate Linear Regression model:
 
-In summary, our Multivariate Linear Regression model exhibits weak performance and does not align well with our dataset. As previously observed in part 3, none of our variables demonstrate a normal distribution. A possible direct improvement is to repeat the EDA and data transforming processes (such as normalize, encoding other categorical variables to include in the model) to potentially itirate and increase the fit of our Multivariate Linear Regression model. Other statistical methods or models that work well with non-normal data can be considered as well (for example, logistic regression models).
+In summary, our Multivariate Linear Regression model exhibits weak performance and does not align well with our dataset. As previously observed in part 3, none of our variables demonstrate a normal distribution. A possible direct improvement is to repeat the EDA and data transforming processes (such as normalize, encoding other categorical variables to include in the model) to potentially itirate and increase the fit of our Multivariate Linear Regression model. Other statistical methods or models that work well with non-normal data can be considered as well (for example, logistic regression models). Or we can seek other API options to acquire better bar features that have a better relationship with the dynamic number of bikes per station.
+
+Business context wise, a precise prediction of station inventory (specifically the number of bikes available at the station) might, or might not have impacts in the local points of interests nearby, specifically bars is the problem our model is trying to solve in this project. The business conclusion from the model output indicates a weak linear relationship between the dynamic number of bikes available at a station; and the characteristics of bar POIs close by; such as distance from stations to bars, and its available review counts. Using those mentioned bar characteristics doesn't explain well the connection.
 
 ## Challenges 
 
