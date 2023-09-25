@@ -9,7 +9,7 @@ Places POI is an API from Foursquare to help better business decisions with a ri
 
 Yelp Fusion API allows users to get the best local content and user reviews from millions of businesses around the world. Emphasizing on the world's best local content, there are dozens of attributes per business, and new reviews and photos are added by active Yelp users. We use mainly Business Search to Search for our "Bars" POI by by keyword, category.
 
-The high-level goals of this project are to:
+The high-level goals of this Statistical Modelling project with Python are to:
 
 1. Connect to CityBikes API, query and retrieve all bike stations available in Montreal.
 2. Connect to Foursquare and Yelp APIs, query and retrieve information for bars as a POI. At this step, we compare the quality of the Yelp and Foursquare API for which API provides the most complete information/better coverage for the POI.
@@ -18,7 +18,7 @@ The high-level goals of this project are to:
 
 ## Process
 
-[### Part 1: Connect to CityBikes API](/notebooks/city_bikes.ipynb)
+### Part 1: Connect to [CityBikes API](/notebooks/city_bikes.ipynb)
 Output mapping: The **city_bikes.ipynb** notebook
 
 1. Select a bike network to study: We chose Montreal with the Bixi bike sharing network. Being the third largest metropolitan in Canada, Montreal had an enormous number of bike stations (798 stations) and a big number of nearby bars within the 1 kilometer.
@@ -32,7 +32,7 @@ Output mapping: The **foursquare_EDA.ipynb** and **yelp_EDA.ipynb** notebooks
 
 2. Put Foursquare and Yelp information into different Pandas DataFrame, compare their relative API quality for the same station coordinate from Citybikes.
 
-[### Part 3: Joining Data](/notebooks/joining_data.ipynb)
+### Part 3: [Joining Data](/notebooks/joining_data.ipynb)
 Output mapping: The **joining_data.ipynb** notebook
 
 1. Create a consolidated merged dataframe with data from Part 1 and Part 2. Create a SQLite database and store the data collected on the POIs.
@@ -41,7 +41,7 @@ Output mapping: The **joining_data.ipynb** notebook
 
 3. Visualize the data to detect possible patterns, trends between numerical and categorical variables. We also conduct statistical analysis and hypothesis testing to validate the quality of our data.
 
-[### Part 4: Building a Model](/notebooks/model_building.ipynb)
+### Part 4: [Building a Model](/notebooks/model_building.ipynb)
 Output mapping: The **model_building.ipynb** notebook
 
 1. Develop a Multivariate Linear Regression model to assess the relationships among the variables of significance. It was assumed that the target dependen variable is the number of bikes available at a station. Our feature selection in part 3 recommended the independent variables to predict the target are the review count of the bar POIs and their distance from per bike station, due to slightly higher correlations with the target variable.
